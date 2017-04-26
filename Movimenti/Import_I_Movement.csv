@@ -1,0 +1,2 @@
+OrgValue,AD_Org_ID[Name],MovementDate,DocumentNo,DocTypeName,C_DocType_ID[Name],BPartnerValue,C_BPartner_ID[Value],ShipperName,M_Shipper_ID[Name],AD_User_ID[Name],DeliveryViaRule,DeliveryRule,PriorityRule,FreightCostRule,ProjectValue,C_Project_ID[Value],CampaignValue,C_Campaign_ID[Value],OrgTrxValue,AD_OrgTrx_ID[Name],User1_ID,User2_ID,ProductValue,M_Product_ID[Value],LocatorValue,M_Locator_ID,LocatorToValue,M_LocatorTo_ID,MovementQty
+,*,,aa,,,,,,,GardenAdmin,,,,,,,,,,,,,,,,,,,0

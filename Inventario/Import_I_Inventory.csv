@@ -1,0 +1,2 @@
+AD_Org_ID[Name],DocTypeName,C_DocType_ID[Name],MovementDate,WarehouseValue,X,Y,Z,LocatorValue,M_Locator_ID[Value],Value,UPC,M_Product_ID[Value],Lot,SerNo,QtyBook,QtyCount,QtyInternalUse,ChargeName,C_Charge_ID[Name],Description,CurrentCostPrice,M_CostingLine_ID[Value]
+*,aa,,,,,,,,,10000000,,,,,0,0,0,,,,"0,00",

@@ -1,0 +1,2 @@
+I_PriceList_ID,I_IsImported,M_PriceList_ID[Name],I_ErrorMsg,AD_Org_ID[Name],Name,Description,ISO_Code,C_Currency_ID,PricePrecision,IsSOPriceList,IsTaxIncluded,EnforcePriceLimit,M_PriceList_Version_ID[Name],ValidFrom,ProductValue,M_Product_ID[Value],PriceList,PriceStd,PriceLimit,BPartner_Value,C_BPartner_ID[Value],BreakValue,X12DE355,C_UOM_ID[Name],Processed
+1000000,N,Standard,,*,aa,,,100,0,N,N,N,,,,,"0,00","0,00","0,00",,,"0,0",,Each,N
