@@ -1,0 +1,3 @@
+AD_Org_ID[Name],Value/K,Name,Description,C_Currency_ID,C_BPartner_ID[Value],CommittedAmt,DateContract,DateFinish,Note,SalesRep_ID[Name],M_PriceList_Version_ID[Name],PlannedAmt,PlannedQty,PlannedMarginAmt,POReference,C_Campaign_ID[Value],C_PaymentTerm_ID[Value],AD_User_ID[Name],C_BPartner_Location_ID[Name],InvoicedAmt,InvoicedQty,ProjectBalanceAmt,CommittedQty,M_Warehouse_ID[Value],C_BPartnerSR_ID[Value],ProjInvoiceRule,ProjectLineLevel,AD_OrgTrx_ID[Name],C_Activity_ID[Value],IsActive
+*,P1,Nome 1,test ,102,,0,,,,,,0,0,0,,,,,,0,0,0,0,,,-,P,,,Y
+*,P2,Nome 2,Test 2,102,,0,,,,,,0,0,0,,,,,,0,0,0,0,,,-,P,,,Y
