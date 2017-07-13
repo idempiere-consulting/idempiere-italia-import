@@ -1,0 +1,2 @@
+C_Activity_ID[Value],DocumentNo/K,Priority,Updated,ContactActivityType,C_BPartner_ID[Value],Description,R_Status_ID[Value],StartDate,C_Project_ID[Value],EndDate,SalesRep_ID[Name],IsComplete,PlannedQty,Qty,AD_User_ID[Name]
+TEST,123,5,2017-05-16 08:35:30,TA,Standard,Test,,2017-05-16 08:35:12,,,,N,0,0,

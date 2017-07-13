@@ -1,0 +1,2 @@
+AD_Org_ID[Name],DocumentNo,Value,Name,SurName,Description,IsActive,S_ResourceType_ID[Value],AD_User_ID[Name],M_Warehouse_ID[Value],IsAvailable,Group1,Group2,LIT_RFID
+Wolkeg,423,1,CRISTIAN,BATTISTELLA,CRI.BAT,Y,Dipendente,SuperUser,880,Y,LOG,A-Z,201
