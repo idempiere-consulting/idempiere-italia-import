@@ -1,5 +1,4 @@
-AD_Org_ID[Value],LIT_RFID,SurName,Name,isdisplayed,Description,SerNo,phone,,Group2,Help,S_ResourceType_ID[Value],Group2
-Azienda,ID-RFID,Cognome,Nome,Vis Kanban,NikName  (3chCOGnome.3chNOMe),matricola,telefono,libera,gruppo entrata,Menu entrata,,gruppo entrata
+AD_Org_ID[Value],LIT_RFID/K,SurName,Name,isdisplayed,Description,SerNo,phone,,Group2,Help,S_ResourceType_ID[Value],Group2
 GSI,11,GIACOMAZZI,MICHELA,1,GIA-MIC,,,,A-Z,.A-Z,Dipendente,A-Z
 GSI,3,BIZZOTTO,ALICE,1,BIZ-ALI,,,,A-Z,.A-Z,Dipendente,A-Z
 GSI,28,PERETTO,BARBARA,1,PER-BAR,,,,A-Z,.A-Z,Dipendente,A-Z
