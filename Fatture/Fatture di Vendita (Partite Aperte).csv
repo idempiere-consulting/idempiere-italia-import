@@ -1,0 +1,2 @@
+AD_Org_ID[Name],C_DocTypeTarget_ID[Name],DateInvoiced,C_BPartner_ID[Value],M_PriceList_ID[Name],C_InvoiceLine>C_Charge_ID[Name],C_InvoiceLine>QtyEntered,C_InvoiceLine>PriceEntered
+Magagnin,AR Invoice,2017-12-31,STAZIONE DI SERVIZIO ZANIN OTTORINO E C.,Listino di Vendita,Partite Aperte,1,10
