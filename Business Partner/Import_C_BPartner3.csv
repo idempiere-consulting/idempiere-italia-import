@@ -1,2 +1,20 @@
-AD_Org_ID[Name],IsCustomer,IsVendor,Value,Name,Name2,Description,LIT_TaxID,C_BP_Group_ID[Value]
-*,N,Y,333,ccc,,,3119700262,Standard
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AD_Org_ID[Name],IsCustomer,IsVendor,Value,Name,Name2,Description,LIT_TaxID,LIT_NationalIdNumber_ID,C_BP_Group_ID[Value],AD_Language,C_BPartner_Location>Name,C_BPartner_Location>EMail,C_BPartner_Location>Phone,C_BPartner_Location>Fax,C_BPartner_Location>IsShipTo,C_BPartner_Location>IsBillTo,C_BPartner_Location>IsPayFrom,C_BPartner_Location>IsRemitTo,C_BPartner_Location>C_Location>Address1,C_BPartner_Location>C_Location>Address2,C_BPartner_Location>C_Location>C_City_ID[Name],C_BPartner_Location>C_Location>Postal,C_BPartner_Location>C_Location>C_Region_ID[Name],C_BPartner_Location>C_Location>C_Country_ID[Name],C_BP_BankAccount>IsACH,C_BP_BankAccount>C_Bank_ID[Name],C_BP_BankAccount>IBAN
+*,N,Y,333,ccc,,,3119700262,3119700262,Standard,it_IT,,,,,Y,Y,Y,Y,aaa,,UDINE,31014,UD,Italy,Y,,ttt
+,Y,,,Mrco l,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,abrinas,,,22222,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,s,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,s,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,s,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,s,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,s,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,s,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,s,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,s,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,s,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,s,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,,,,,,Standard,it_IT,,,,,,,,,,,,,,,,,
+,Y,Y,,,,,,,,,,,,,,,,,,,,,,,,,
