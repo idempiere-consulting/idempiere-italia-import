@@ -1,4 +1,4 @@
-AD_Org_ID[Name],C_DocTypeTarget_ID[Name],DocumentNo,DateInvoiced,VATDocumentNo,C_BPartner_ID[Value],M_PriceList_ID[Name],LIT_isNoCheckPaymentTerm,,C_InvoiceLine>C_Charge_ID[Name],C_InvoiceLine>PriceEntered,C_InvoicePaySchedule>C_Invoice_ID[DocumentNo],C_InvoicePaySchedule>DueDate,C_InvoicePaySchedule>DiscountDate,C_InvoicePaySchedule>DueAmt
+AD_Org_ID[Name],C_DocTypeTarget_ID[Name],DocumentNo,DateInvoiced,VATDocumentNo,C_BPartner_ID[Value],M_PriceList_ID[Name],LIT_isNoCheckPaymentTerm,PaymentRule,C_InvoiceLine>C_Charge_ID[Name],C_InvoiceLine>PriceEntered,C_InvoicePaySchedule>C_Invoice_ID[DocumentNo],C_InvoicePaySchedule>DueDate,C_InvoicePaySchedule>DiscountDate,C_InvoicePaySchedule>DueAmt
 Morgera,AR Invoice,1636,2007-03-26,1636,366,Listino Vendita,Y,P ,Partite Aperte,"68,2",1636,2007-04-26,2007-04-26,"68,2"
 Morgera,AR Invoice,4785,2007-09-24,4785,366,Listino Vendita,Y,P ,Partite Aperte,"103,6",4785,2007-10-24,2007-10-24,"103,6"
 Morgera,AR Invoice,5114,2007-10-10,5114,366,Listino Vendita,Y,P ,Partite Aperte,"206,8",5114,2007-11-10,2007-11-10,"206,8"
