@@ -1,0 +1,2 @@
+Name/K,Description,IsActive,C_Currency_ID,PricePrecision,IsSOPriceList,EnforcePriceLimit,M_PriceList_Version>M_PriceList_ID[Name]/K,M_PriceList_Version>Name,M_PriceList_Version>Description,M_PriceList_Version>M_DiscountSchema_ID[Name],M_PriceList_Version>ValidFrom
+L.V. Test,,Y,102,2,Y,N,L.V. Test,L.V. Test,,Standard,2018-01-01
