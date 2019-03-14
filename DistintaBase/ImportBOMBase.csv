@@ -1,0 +1,2 @@
+Value,Name,Description,SKU,M_Product_Category_ID[Value],C_TaxCategory_ID[Name],C_UOM_ID[Name],ProductType,IsSelfService,IsStocked,M_Locator_ID,ImageURL,IsBOM,IsPurchased,IsSold,M_AttributeSet_ID[Name],M_Product_BOM>M_Product_ID[Value],M_Product_BOM>Line,M_Product_BOM>IsActive,M_Product_BOM>Description,M_Product_BOM>BOMType,M_Product_BOM>M_ProductBOM_ID[Value],M_Product_BOM>BOMQty
+ANT.FSP.M2Y,Licenza Antivirus F-secure Mobile ,Licenza Antivirus F-secure Mobile ,ANT.FSP.M2Y,materiale di consumo,Cat. IVA 22 % ,Each,S,N,N,,,Y,Y,Y,,ANT.FSP.M2Y,10,Y,,P,SID.PMI.CU1.01,"0,5"
