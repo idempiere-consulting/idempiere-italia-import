@@ -1,2 +1,2 @@
 AD_Org_ID[Name],C_DocTypeTarget_ID[Name],DateInvoiced,C_BPartner_ID[Value],C_InvoiceLine>C_Charge_ID[Name],C_InvoiceLine>QtyEntered,C_InvoiceLine>PriceEntered
-Magagnin,AP Invoice,2017-12-31,Servizi Integrati Srl,Partite Aperte,1,10
+DEMO,AP Invoice,2017-12-31,Servizi Integrati Srl,Partite Aperte,1,10
