@@ -1,6 +1,6 @@
 AD_Org_ID[Name],C_AcctSchema_ID[Name],Description,PostingType,C_DocType_ID[Name],GL_Category_ID[Name],DateDoc,DateAcct,C_Period_ID[Name],C_Currency_ID,C_ConversionType_ID[Value],GL_JournalLine>AD_Org_ID[Name],GL_JournalLine>C_Currency_ID,GL_JournalLine>DateAcct,GL_JournalLine>C_ConversionType_ID[Value],GL_JournalLine>Account_ID[Value],GL_JournalLine>Description,GL_JournalLine>AmtSourceDr,GL_JournalLine>AmtSourceCr
-Magagnin,Magagnin UN/35 Euro,Situazione Patrimoniale 2017,A,GL Journal,Standard,2017-12-31,2017-12-31,Dec-17,102,S,Magagnin,102,2017-12-31,S,1.2.01.01.01,,"5706,2",
-,,,,,,,,,,,Magagnin,102,2017-12-31,S,1.2.01.04.01,,159,
+DEMO,DEMO UN/35 Euro,Situazione Patrimoniale 2017,A,GL Journal,Standard,2017-12-31,2017-12-31,Dec-17,102,S,DEMO,102,2017-12-31,S,1.2.01.01.01,,"5706,2",
+,,,,,,,,,,,DEMO,102,2017-12-31,S,1.2.01.04.01,,159,
 ,,,,,,,,,,,,,,,1.2.02.07.01,,"4347,6",
 ,,,,,,,,,,,,,,,1.2.02.02.01,,500,
 ,,,,,,,,,,,,,,,1.2.02.02.02,,"37667,9",
