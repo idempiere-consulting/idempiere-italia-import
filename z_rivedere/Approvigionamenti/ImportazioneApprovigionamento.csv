@@ -1,0 +1,2 @@
+M_Product_ID[Value],M_Warehouse_ID[Value],M_Locator_ID[Value],IsActive,ReplenishType,Level_Min,Level_Max
+prova,Magazzino di Prova,Standard,Y,1,123,456
